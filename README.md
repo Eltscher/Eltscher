@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hello there, I’m Eltscher!
 
-<!--
-**Eltscher/Eltscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Project Manager | Cross-Department Collaborator | Lifelong Learner**
 
-Here are some ideas to get you started:
+----------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Myself
+
+I’m a project manager who works with diverse teams. From Marketing and Sales, to IT and Software Development, inside our outside. My specialty is working with people together and driving projects forward using the best methodologies, tools and frameworks.
+
+## Skills & Tools
+
+- **Project Management:** Scrum, PRINCE2
+- **Collaboration Platforms:** Jira, Confluence, Asana
+- **Productivity Tools:** Microsoft Office Suite
+- **Design & Creativity:** Figma, GIMP
+- **Programming (Bad):** HTML, CSS, JavaScript, PHP, SQL
+
+## How I Work
+
+- I love challenging myself and learning something new every day.
+- My approach is hands-on, practical, and always focused on clear and transparent communication.
+- I’m there to make things happen. Whether it’s leading a sprint, brainstorming with the team(s), or refining a process.
+
+## Fun Projects
+
+- Creating custom games and quiz shows for friends.
+- Things at work, like product releases and website relaunches.
+
+## Outside of Work
+
+- Sports enthusiast
+- Plant lover
+- Strategie game associate
+- Always up for a challenge
+  
+## Favorite Quote
+
+> “From hospitals to honesty; and everything that you need of me. I'll be there.” - Lawrence 'Loz' Taylor
+
+----------------------------------------------------------------------
+
+Thanks for visiting!

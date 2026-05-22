@@ -11,10 +11,11 @@ I’m a project manager who works with diverse teams. From Marketing and Sales, 
 ## Skills & Tools
 
 - **Project Management:** Scrum, PRINCE2
+- **IT-Service-Management:** ITIL
 - **Collaboration Platforms:** Jira, Confluence, Asana
 - **Productivity Tools:** Microsoft Office Suite
 - **Design & Creativity:** Figma, GIMP
-- **Programming (Bad):** HTML, CSS, JavaScript, PHP, SQL
+- **Programming (Bad):** HTML, CSS, C++, PHP, SQL
 
 ## How I Work
 

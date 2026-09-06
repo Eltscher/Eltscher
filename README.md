@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m Eltscher!
+# 👋 Hello there, I’m Leon!
 
 **Project Manager | Cross-Department Collaborator | Lifelong Learner**
 
@@ -15,7 +15,7 @@ I’m a project manager who works with diverse teams. From Marketing and Sales, 
 - **Collaboration Platforms:** Jira, Confluence, Asana
 - **Productivity Tools:** Microsoft Office Suite
 - **Design & Creativity:** Figma, GIMP
-- **Programming (Bad):** HTML, CSS, C++, PHP, SQL
+- **Programming (basic knowledge):** HTML, CSS, Javascript, C++, Python, SQL
 
 ## How I Work
 
@@ -23,7 +23,7 @@ I’m a project manager who works with diverse teams. From Marketing and Sales, 
 - My approach is hands-on, practical, and always focused on clear and transparent communication.
 - I’m there to make things happen. Whether it’s leading a sprint, brainstorming with the team(s), or refining a process.
 
-## Fun Projects
+## Other Fun Projects
 
 - Creating custom games and quiz shows for friends.
 - Things at work, like product releases and website relaunches.

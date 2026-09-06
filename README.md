@@ -34,10 +34,6 @@ I’m a project manager who works with diverse teams. From Marketing and Sales, 
 - Plant lover
 - Strategie game associate
 - Always up for a challenge
-  
-## Favorite Quote
-
-> “From hospitals to honesty; and everything that you need of me. I'll be there.” - Lawrence 'Loz' Taylor
 
 ----------------------------------------------------------------------
 
